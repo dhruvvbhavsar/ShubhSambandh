@@ -11,11 +11,9 @@
   <style>
     div {
         height: 10%;
-        width: 100%;
         background-color: black;
         color: white;
         font-family: sans-serif;
-
     }
      
   </style>

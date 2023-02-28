@@ -6,9 +6,9 @@ import Hero from "./Hero.svelte";
   </script>
   
   <Hero />
-  <Marketing title="Hello" />
-  <Marketing title="Hello" />
-  <Marketing title="Hello" />
+  <Marketing  />
+  <Marketing  />
+  <Marketing  />
   <Footer />
 
   
