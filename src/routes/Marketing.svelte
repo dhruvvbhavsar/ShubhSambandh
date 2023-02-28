@@ -10,19 +10,22 @@
   </section>
   
   <style>
-    .marketing {
-      height: 100vh;
-      width: 100%;
-      background-color: #fff;
-      color: #333;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-    }
+     .marketing {
+    height: 100vh;
+    min-width: 100vw;
+    background-color: blue;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+  }
+  
     
     .marketing-content {
-      max-width: 800px;
+      height: 100vh;
+      width: 100% ;
       text-align: center;
     }
     
@@ -34,5 +37,7 @@
     p {
       font-size: 1.5rem;
     }
+
+  
   </style>
   
